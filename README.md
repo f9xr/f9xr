@@ -1,7 +1,8 @@
-![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh21YJRscP3gS3jr0jNdTAI-bg_ZAA4AjOh1kQ9I4qzL3iWAx7Q5TK4PpCaxUcS5mD3NKGbaKV-QfKk6lfYMMazQ2IBhrP02wJYiITMGti8xt8LYF8sG4BebKoXXAhQ4kQCoLQdSilcSWxs6rtkrS6RylTsLsDqShSCYCKNlyq42tyF8H4khilf8rnE/s1280/Blue%20Creative%20NFT%20YouTube%20Thumbnail.png)
+![logo](https://i.imgur.com/4y5XU4l.png)
 
 <h1 align="center">Hi 👋 There, I'm F9XR</h1>
 <h3 align="center">A Crypto & Blockchain Lover! | By TONTUF</h3>
+
 
 - 🔭 I’m currently working in [TTEarnCrypto](https://github.com/ttearncrypto)
 
@@ -27,3 +28,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/tontuf"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="tontuf" /></a></p><br><br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=f9xr&show_icons=true&locale=en" alt="ttearncrypto" /></p>
