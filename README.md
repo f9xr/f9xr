@@ -1,4 +1,3 @@
-![logo](https://i.imgur.com/4y5XU4l.png)
 
 <h1 align="center">Hi 👋 There, I'm F9XR</h1>
 <h3 align="center">A Crypto & Blockchain Lover! | By TONTUF</h3>
